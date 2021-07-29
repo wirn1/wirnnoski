@@ -1,0 +1,17 @@
+Sai Version  = 1.2.5
+Win Version  = Windows 8 
+CPU No.00    = Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz
+CPU No.01    = Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz
+CPU No.02    = Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz
+CPU No.03    = Intel(R) Core(TM)2 Quad CPU    Q6600  @ 2.40GHz
+OS Version   = 602
+WOW64        = Yes
+WinNT        = Yes
+Admin        = Yes
+Super        = No
+UAC          = 2
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 3071MB
+Total VAS    = 4095MB
+Avail VAS    = 3169MB
