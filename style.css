@@ -185,7 +185,7 @@
 }
 .wq {
   position:absolute;
-  top:510;
+  top:640;
   left:108;
   width:;
   height:;
@@ -193,7 +193,7 @@
 
 .wqq {
   position:absolute;
-  top:530;
+  top:660;
   left:108;
   width:;
   height:;
@@ -201,8 +201,153 @@
 
 .wqqq {
   position:absolute;
-  top:470;
+  top:600;
   left:108;
   width:;
   height:;
 }
+
+.container {
+ width: 200%
+}
+
+
+@media (max-width:768px) {
+.q {
+  position:absolute;
+  top:570;
+  left:60;
+  width:230;
+  height:;
+}
+.on {
+  position:absolute;
+  top:390;
+  left:60;
+  width:250;
+  height:200;
+}
+.text {
+  position:absolute;
+  top:1200;
+  left:60;
+  width:250;
+  height:;
+}
+.qqq {
+  position:absolute;
+  top:620;
+  left:60;
+  width:230;
+  height:;
+}
+.qq {
+  position:absolute;
+  top:600;
+  left:60;
+  width:230;
+  height:;
+}
+.two {
+  position:absolute;
+  top:700;
+  left:60;
+  width:250;
+  height:200;
+}
+.one {
+  position:absolute;
+  top:100;
+  left:60;
+  width:250;
+  height:200;
+}
+.fo {
+  position:absolute;
+  top:280;
+  left:60;
+  width:230;
+  height:;
+}
+.foq {
+  position:absolute;
+  top:310;
+  left:60;
+  width:230;
+  height:;
+}
+.foqq {
+  position:absolute;
+  top:330;
+  left:60;
+  width:230;
+  height:;
+}
+.qw {
+  position:absolute;
+  top:900;
+  left:60;
+  width:230;
+  height:;
+}
+.qwe {
+  position:absolute;
+  top:1150;
+  left:60;
+  width:230;
+  height:;
+}
+.free {
+  position:absolute;
+  top:950;
+  left:60;
+  width:250;
+  height:200;
+}
+.wq {
+  position:absolute;
+  top:1490;
+  left:60;
+  width:;
+  height:;
+}
+
+.wqq {
+  position:absolute;
+  top:1510;
+  left:60;
+  width:;
+  height:;
+}
+
+.wqqq {
+  position:absolute;
+  top:1450;
+  left:60;
+  width:;
+  height:;
+}
+.vas {
+  position:absolute;
+  top:;
+  left:;
+  width:360;
+  height:30;
+}
+.va {
+  position:absolute;
+  top:1600;
+  left:;
+  width:360;
+  height:200;
+}
+}
+@media (max-width:320px) {
+  /*
+    ... правила для смартфонов ...
+    выводим карточки товаров по 1 в ряд
+  */
+}
+
+
+
