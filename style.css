@@ -1,3 +1,7 @@
+.po {
+  width:100;
+  height:200;
+}
 .one {
   position:absolute;
   top:100;
@@ -212,46 +216,46 @@
 }
 
 
-@media (max-width:768px) {
+@media (max-width:1080px) {
 .q {
   position:absolute;
-  top:570;
-  left:60;
-  width:230;
+  top:280;
+  left:450;
+  width:;
   height:;
 }
 .on {
   position:absolute;
-  top:390;
-  left:60;
-  width:250;
+  top:100;
+  left:450;
+  width:;
   height:200;
 }
 .text {
   position:absolute;
-  top:1200;
+  top:800;
   left:60;
-  width:250;
+  width:650;
   height:;
 }
 .qqq {
   position:absolute;
-  top:620;
-  left:60;
+  top:330;
+  left:450;
   width:230;
   height:;
 }
 .qq {
   position:absolute;
-  top:600;
-  left:60;
+  top:310;
+  left:450;
   width:230;
   height:;
 }
 .two {
   position:absolute;
-  top:700;
-  left:60;
+  top:400;
+  left:450;
   width:250;
   height:200;
 }
@@ -285,28 +289,28 @@
 }
 .qw {
   position:absolute;
-  top:900;
-  left:60;
+  top:600;
+  left:450;
   width:230;
   height:;
 }
 .qwe {
   position:absolute;
-  top:1150;
+  top:600;
   left:60;
   width:230;
   height:;
 }
 .free {
   position:absolute;
-  top:950;
+  top:400;
   left:60;
   width:250;
   height:200;
 }
 .wq {
   position:absolute;
-  top:1490;
+  top:940;
   left:60;
   width:;
   height:;
@@ -314,7 +318,7 @@
 
 .wqq {
   position:absolute;
-  top:1510;
+  top:960;
   left:60;
   width:;
   height:;
@@ -322,7 +326,7 @@
 
 .wqqq {
   position:absolute;
-  top:1450;
+  top:900;
   left:60;
   width:;
   height:;
@@ -331,18 +335,22 @@
   position:absolute;
   top:;
   left:;
-  width:360;
+  width:760;
   height:30;
 }
 .va {
   position:absolute;
-  top:1600;
+  top:1100;
   left:;
-  width:360;
+  width:760;
   height:200;
 }
+.po {
+  width:100;
+  height:10;
 }
-@media (max-width:320px) {
+}
+@media (max-width:700px) {
 .q {
   position:absolute;
   top:570;
@@ -469,6 +477,10 @@
   top:1600;
   left:;
   width:370;
+  height:200;
+}
+.po {
+  width:100;
   height:200;
 }
 }
